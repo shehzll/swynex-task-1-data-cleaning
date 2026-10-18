@@ -1,0 +1,8 @@
+,Data Type,Missing Values,Unique Values
+Survived,int64,0,2
+Name,object,0,891
+Age,float64,0,88
+Ticket,object,0,681
+Fare,float64,0,248
+Cabin,object,0,148
+Sex_male,int64,0,2
